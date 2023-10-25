@@ -19,7 +19,7 @@ public class GetBooking {
                 .then()
                 .log()
                 .all()
-                .statusCode(400);
+                .statusCode(200);
 
 
     }
