@@ -8,7 +8,7 @@ import io.restassured.specification.RequestSpecification;
 
 public class CreateBooking {
     public static void main(String[] args) {
-
+//COMMENT ADDED BY MANISH dated 26-oct
       /*  RequestSpecification requestSpecification = RestAssured.given();
          requestSpecification = requestSpecification.log().all();
         requestSpecification.baseUri("https://restful-booker.herokuapp.com");
